@@ -1,7 +1,7 @@
 public class devop {
 public void Method1(){
-        integer a=10;
-        integer b= 6;
+        integer a= 100;
+        integer b= 200;
         integer Re= a+b;
         system.debug(' Non paramatrized constructor==> Addioon is'+re);
                     
